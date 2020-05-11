@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                   hatim
+                   CSE
                 </div>
 
                 <div class="links">
