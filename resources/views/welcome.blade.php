@@ -80,8 +80,11 @@
             @endif
 
             <div class="content">
+
                 <div class="title m-b-md">
-                   CSE-cse
+                  
+
+                <div class="title m-b-md"> 
                 </div>
 
                 <div class="links">
