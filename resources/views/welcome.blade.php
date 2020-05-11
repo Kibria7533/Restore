@@ -80,8 +80,8 @@
             @endif
 
             <div class="content">
-                <div class="title m-b-md">
-                   hatimgt
+                <div class="title m-b-md"> CSEacademia-patch-1
+                   CSEmaster
                 </div>
 
                 <div class="links">
